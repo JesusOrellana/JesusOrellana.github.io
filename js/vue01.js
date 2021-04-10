@@ -6,11 +6,11 @@ if(fecha >= 1 & fecha <= 11)
 {
     salu = "¡Buenos Días!";
 }
-else if(fecha >= 12 & fecha <= 19 )
+else if(fecha >= 12 & fecha <= 18 )
 {
     salu = "¡Buenas Tardes!";
 }
-else if(fecha >= 20 & fecha <= 24)
+else if(fecha >= 19 & fecha <= 24)
 {
     salu = "¡Buenas noches!";
 }
